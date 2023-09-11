@@ -4,7 +4,7 @@
 <img align ="right" alt="coding"width="400"src="https://user-images.githubusercontent.com/45157446/161337980-87a1b2e4-99ea-4fc8-ab1e-faa61357b40d.gif"
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=soniaj27&label=Profile%20views&color=0e75b6&style=flat" alt="soniaj27" /> </p>
 
-- 🌱 I’m currently learning javascript,react</br>
+- 🌱 I’m currently learning node,mangodb</br>
 
 - 👯 I’m looking to collaborate on Frontend Project</br>
 
